@@ -27,17 +27,21 @@
   <tr>
     <td style="padding: 10px;">
       <img src="https://github.com/user-attachments/assets/732657a6-a284-4dd0-964a-21de0d4570a1" alt="Tela Inicial" style="max-width: 100%; height: auto;">
+      <p align="center">Tela Inicial</p>
     </td>
     <td style="padding: 10px;">
       <img src="https://github.com/user-attachments/assets/a3f671bf-b498-4b77-b4f6-182419cca8a7" alt="Tela Admin" style="max-width: 100%; height: auto;">
+      <p align="center">Logado como Admin</p>
     </td>
   </tr>
   <tr>
     <td style="padding: 10px;">
       <img src="https://github.com/user-attachments/assets/3049def7-eac3-459f-8ead-f4b7cff4dfcc" alt="Tela Cadastro" style="max-width: 100%; height: auto;">
+       <p align="center">Cadastro de Novo Usuário</p>
     </td>
     <td style="padding: 10px;">
       <img src="https://github.com/user-attachments/assets/60f1a370-50dc-49d3-afc8-3dd2174a4f87" alt="Tela Jogo" style="max-width: 100%; height: auto;">
+       <p align="center"> Jogando 🎮</p>
     </td>
   </tr>
 </table>
