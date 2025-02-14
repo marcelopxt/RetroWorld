@@ -2,7 +2,7 @@ const jogos = require('../model/retroMongo.js');
 
 exports.tela_principal = async function (req, res) {
   var admin;
-  var adminId = '66f048d81d937fe385323634';
+  var adminId = '67a110a0e36b030f6c92c791';
   var login;
   var nomeLogado = req.session.nome;
   if (req.session.logado == adminId) {
