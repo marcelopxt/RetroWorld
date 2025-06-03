@@ -7,13 +7,13 @@
 
 ## 🚀 Recursos
 
-- 🎮 Jogabilidade diretamente pelo navegador via iframes
+- 🎮 Jogabilidade diretamente pelo navegador via iframes.
 - 🔐 Sistema de login com níveis de acesso:
   - **Admin**: Criar, editar, visualizar e excluir jogos
   - **Usuário comum**: Acessar e jogar os jogos
-- 📦 Armazenamento de dados no MongoDB
-- 🌎 Interface responsiva com BootStrap e CSS
-- 🏗️ Estruturado no padrão MVC
+- 📦 Armazenamento de dados no MongoDB.
+- 🌎 Interface responsiva com BootStrap e CSS.
+- 🏗️ Estruturado no padrão MVC.
 
 ## 🛠️ Tecnologias Utilizadas
 
